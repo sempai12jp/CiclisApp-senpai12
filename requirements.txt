@@ -1,0 +1,5 @@
+kivy
+kivymd
+requests
+plyer
+kivy-garden.mapview
